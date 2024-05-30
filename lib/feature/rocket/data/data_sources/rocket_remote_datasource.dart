@@ -22,6 +22,7 @@ class RocketRemoteDataSource {
       }
       return rockets;
     } catch (e) {
+      debugPrint("error: $e");
       rethrow;
     }
   }
