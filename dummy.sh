@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set start date in YYYY-MM-DD format
-start_date="2024-10-23"
+start_date="2024-08-08"
 
 # Set the end date as today
 end_date=$(date +"%Y-%m-%d")
